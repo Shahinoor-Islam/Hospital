@@ -193,15 +193,11 @@ Menu part start
     font-size: 18px;
     color: #fff;
     font-weight: 600;
-    padding: 0 30px;
+    padding: 0 10px;
     background: #92c7a3;
     margin-top: 40px;
     line-height: 42px;
-    border-radius: 20%;
-    -webkit-border-radius: 20%;
-    -moz-border-radius: 20%;
-    -ms-border-radius: 20%;
-    -o-border-radius: 20%;
+   border-radius: 20%;
     transition: all linear .4s;
     -webkit-transition: all linear .4s;
     -moz-transition: all linear .4s;
